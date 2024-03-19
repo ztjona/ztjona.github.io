@@ -1,6 +1,17 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ICI2ST":
   color: "#00369f"
+  url: 
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CSEI":
+  url: https://csei.uta.edu.ec/csei2023/#/inicio
+  color: "#a79914"
+
+"MDPI":
+  url: https://www.mdpi.com/journal/sensors
+  color: "#569cd6"
+
+
+"EUSIPCO":
+  url: https://eusipco2023.org/
+  color: "#be1e2d"
+
