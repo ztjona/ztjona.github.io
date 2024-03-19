@@ -1,6 +1,5 @@
 "ICI2ST":
   color: "#00369f"
-  url: 
 
 "CSEI":
   url: https://csei.uta.edu.ec/csei2023/#/inicio
@@ -10,8 +9,6 @@
   url: https://www.mdpi.com/journal/sensors
   color: "#569cd6"
 
-
 "EUSIPCO":
   url: https://eusipco2023.org/
   color: "#be1e2d"
-

@@ -2,7 +2,7 @@
 layout: page
 title: Numerical Methods
 description: EPN undergrad class.
-img: 
+img:
 importance: 1
 category: undergrad Computer Science
 related_publications: true
