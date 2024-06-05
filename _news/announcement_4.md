@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:bookmark: Started *"Crónicas marcianas"* by Ray Bradbury (Spanish). 
+:bookmark: Started _"Crónicas marcianas"_ by Ray Bradbury (Spanish).

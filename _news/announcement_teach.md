@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:technologist: Starting teaching at EPN, Numerical Methods class. 
+:technologist: Starting teaching at EPN, Numerical Methods class.
