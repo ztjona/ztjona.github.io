@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: Creating this personal website.
+:tada: Created this personal website.
