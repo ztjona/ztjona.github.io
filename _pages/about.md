@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 You can also visit my profile on our [lab's website](https://laboratorio-ia.epn.edu.ec/en/members/m_members-active/31-msc-jonathan-zea).
 
-Currently, I am pursuing a PhD on AI Safety and Alignment.
+Currently, I am pursuing a PhD on AI Mechanistic Interpretability.
 My areas of interest include Deep Learning, Machine Learning, Neural Networks, Algorithms, and the intersection of AI and Philosophy.
 
 In a broader context, I am passionate about microcontrollers, embedded systems, robotics and technology.

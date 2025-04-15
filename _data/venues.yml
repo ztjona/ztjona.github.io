@@ -9,6 +9,10 @@
   url: https://www.mdpi.com/journal/sensors
   color: "#569cd6"
 
+"Computers MDPI":
+  url: https://www.mdpi.com/journal/computers
+  color: "#ff8e87"
+
 "EUSIPCO":
   url: https://eusipco2023.org/
   color: "#be1e2d"
