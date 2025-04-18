@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:bookmark: Started _The Dark Forest"_ by LIU Cixin.
+:bookmark: Started _"The Dark Forest"_ by LIU Cixin.
